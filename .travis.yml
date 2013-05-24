@@ -1,1 +1,1 @@
-script: ./script/ci/run_build.sh
+script: ruby ./runner.rb
